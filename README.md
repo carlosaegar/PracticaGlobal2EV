@@ -1,7 +1,7 @@
 Practica Global para la Segunda Evaluación de Programación. 
 Este programa se basa en una conexion con la base de datos, en la cual se guarda la informacion que un usuario introduce mediante la consola. 
-Para usarlo, se hace de manera simple, al ejecutar el programa se imprime por consola una serie de opciones que el usuario puede elegir, 
-las opciones son las siguientes; 
+Para usarlo, se hace de manera simple, al ejecutar el programa se imprime por consola una serie de opciones que el usuario puede elegir, las cuales estan relacionadas entre ellas, ya que es necesario crear un artista, para poder crear un concierto y a la vez guardar la compra de entradas. 
+Las opciones son las siguientes; 
   1. Añadir Artista
   2. Listar Artistas
   3. Eliminar Artista
